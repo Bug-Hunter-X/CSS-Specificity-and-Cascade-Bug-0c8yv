@@ -1,0 +1,1 @@
+This repository demonstrates a subtle CSS bug related to specificity and the cascading order. The bug occurs when a more specific selector doesn't seem to override a less specific one, leading to unexpected styling. The solution explores debugging techniques to identify conflicting styles.
